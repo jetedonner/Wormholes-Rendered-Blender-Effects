@@ -28,22 +28,24 @@ _Rendered Wormhole - Cinematic with Blender (Blue-Purple)_
 [![Video](https://img.youtube.com/vi/-Hd2wKeAhVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=-Hd2wKeAhVU)
 _Rendered Wormhole - Cinematic with Blender (Dark Blue and Green Glow)_
 - [2023-11-08-Rendered WormHole - Cinematic with Blender (Dark Blue and Green Glow).blend](Cinematic/blendfiles/2023-11-08-Rendered%20Wormhole%20-%20Cinematic%20with%20Blender%20(Dark%20Blue%20and%20Green%20Glow).blend)
-- [wp10060076-SeamlessTile-1024x1024.jpg](Cinematic/textures/wp10060076-SeamlessTile-1024x1024.jpg)
+- [PurpleGalaxy-Square-Try-1024x1024_02.jpg](Cinematic/textures/PurpleGalaxy-Square-Try-1024x1024_02.jpg)
 
 ### Dark Colorful Streaks
 [![Video](https://img.youtube.com/vi/ZwpbmxmYQto/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZwpbmxmYQto)
 _Rendered Wormhole - Cinematic with Blender (Dark Colorful Streaks)_
 - [2023-11-08-Rendered WormHole - Cinematic with Blender (Dark Colorful Streaks).blend](Cinematic/blendfiles/2023-11-08-Rendered%20Wormhole%20-%20Cinematic%20with%20Blender%20(Dark%20Colorful%20Streaks).blend)
-- [wp10060076-SeamlessTile-1024x1024.jpg](Cinematic/textures/wp10060076-SeamlessTile-1024x1024.jpg)
+- [galaxy-space-textured-background-1024x1024.jpg](Cinematic/textures/galaxy-space-textured-background-1024x1024.jpg)
+- [grid_edited-partitially-transparent3.png](Cinematic/textures/grid_edited-partitially-transparent3.png)
 
 ### Green Glow
 [![Video](https://img.youtube.com/vi/o578vsHKbfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=o578vsHKbfg)
 _Rendered Wormhole - Cinematic with Blender (Green Glow)_
 - [2023-11-08-Rendered WormHole - Cinematic with Blender (Green Glow).blend](Cinematic/blendfiles/2023-11-08-Rendered%20Wormhole%20-%20Cinematic%20with%20Blender%20(Green%20Glow).blend)
-- [wp10060076-SeamlessTile-1024x1024.jpg](Cinematic/textures/wp10060076-SeamlessTile-1024x1024.jpg)
+- [space-dark-1024x1024.png](Cinematic/textures/space-dark-1024x1024.png)
+- [grid_edited-partitially-transparent3.png](Cinematic/textures/grid_edited-partitially-transparent3.png)
 
-### Orange Glow
-### Yellow Glow
+### Orange Glow (Variant of Green Glow)
+### Yellow Glow (Variant of Green Glow)
 
 ## Effect Demonstration on git pages
 - https://jetedonner.github.io/posts/3d-effects-by-me/
