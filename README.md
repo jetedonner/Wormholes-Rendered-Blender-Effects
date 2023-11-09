@@ -1,5 +1,5 @@
 # Blender Effects Wormholes Rendered
- Blender Projects featuring animated 3D Wormhole effects ready for rendering and exporting to video sequences or similar. This repository features the source BLEND files as well as the (eventually) required texture files (images and such). You may use all of this files as you please in any kind of project - paid or free. The bundle comes WITHOUT WARANTY what so ever. You are advised to leave a reference to the authors source file in your projects credits file if you use it or an ammended version of the files.
+ Blender Projects featuring animated 3D Wormhole effects ready for rendering and exporting to video sequences or similar. This repository features the source BLEND files as well as the (eventually) required texture files (images and such). You may use all of this files as you please in any kind of project - paid or free. The bundle comes WITHOUT WARANTY what so ever. You are advised to leave a reference to the authors source file in your projects credits file if you use it or an amended version of the files.
 
 ## BezierCircle
 ### Grid (Green, Yellow)
@@ -9,7 +9,10 @@
 ### Grid (Orange, Green)
 
 ## Curves
-### WormHole Curve 01
+### WormHole Curve and Torus (Lila / Green)
+[![Video](https://img.youtube.com/vi/_uW_xgeJsVA/maxresdefault.jpg)](https://www.youtube.com/watch?v=_uW_xgeJsVA)
+_Rendered Wormhole - Only with Blender - Torus (Lila / Green)_
+- [2023-11-08-WormHole-Curve-01-2023-04-29.blend](Curve/blendfiles/2023-11-08-WormHole-Curve-01-2023-04-29.blend)
 
 ## Cinematic
 ### Red, Orange and Yellow
